@@ -4,7 +4,8 @@ App de comércio eletrônico
 
 ## Como usar :iphone:
 
-```git clone```
+1. `git clone https://github.com/almerindopaixao/shop.git`
+2. `flutter pug get`
 
 ## Features
 
